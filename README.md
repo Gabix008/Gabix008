@@ -1,4 +1,4 @@
-  ## Olá! Eu sou Gabrielly Santana :) 
+  ## Olá! Eu sou Gabrielly Santana ;) 
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabix008&show_icons=true&theme=radical)](https://github.com/Gabix008/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabix008&layout=compact&show_icons=true&theme=radical)](https://github.com/Gabix008/github-readme-stats)
